@@ -1,4 +1,4 @@
-import debug from 'debug';
+const debug = require('debug/src/browser');
 
 const APP_NAME = 'mediasoup-client';
 
